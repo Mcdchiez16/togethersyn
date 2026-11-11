@@ -1,0 +1,6 @@
+{
+  "name": "TogetherSync",
+  "description": "Playful Duolingo-inspired couples companion app for sharing messages, calls, WhatsApp chats, milestones, and moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

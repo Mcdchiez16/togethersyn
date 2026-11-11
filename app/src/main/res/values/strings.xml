@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TogetherSync</string>
+    <string name="tagline">A little closer, every day.</string>
+    <string name="greeting_format">Good morning, %1$s</string>
+    <string name="connected_title">You\'re Connected</string>
+    <string name="connected_subtitle">Your shared space is active and secure.</string>
+    <string name="streak_badge_format">%1$d days connected</string>
+    <string name="feature_messages_title">Messages</string>
+    <string name="feature_messages_desc">Your shared conversations</string>
+    <string name="feature_calls_title">Calls</string>
+    <string name="feature_calls_desc">Stay in the loop with call history</string>
+    <string name="feature_whatsapp_title">WhatsApp</string>
+    <string name="feature_whatsapp_desc">Conversations you\'ve chosen to share</string>
+    <string name="feature_moments_title">Our World</string>
+    <string name="feature_moments_desc">Photos, music, and love letters</string>
+    <string name="share_a_chat">Share a Chat</string>
+    <string name="empty_whatsapp_title">Nothing shared yet</string>
+    <string name="empty_whatsapp_desc">Import a conversation to share a piece of your day.</string>
+</resources>
